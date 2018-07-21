@@ -1,0 +1,10 @@
+# basic option
+title: Society of Asian Scientists and Engineers - UT Arlington
+author: UTA SASE
+email: uta@saseconnect.org
+description: SASE at UTA
+github_username: UTArlington-SASE
+
+# build setting
+markdown: kramdown
+theme: minima
